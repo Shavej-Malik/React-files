@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.box button {
+  padding: 0rem 0.5rem;
+  margin: 2rem 0.5rem;
+  border: 2px solid aqua;
+  background-color: aqua;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+.box button:hover {
+  background-color: transparent;
+  color: white;
+}/*# sourceMappingURL=index.css.map */
